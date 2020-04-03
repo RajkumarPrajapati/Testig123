@@ -5,3 +5,8 @@ h2{
     padding: 15px;
     text-align: center;
 }
+input{
+    background-color: cyan;
+    font-size: large;
+    border-radius: 30px;
+}
